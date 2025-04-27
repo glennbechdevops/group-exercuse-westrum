@@ -15,15 +15,21 @@ Imagine you are implementing a new software system inside a large organization w
 1. Form into small groups.
 2. Assume the organization has a **pathological** or **bureaucratic** culture.
 3. Discuss:  
-   - What problems could arise related to **performance**, **maintainability**, **reliability**, and **availability** because of the culture?
+   - **What problems** could arise related to **performance**, **maintainability**, **reliability**, and **availability** because of the culture?
 4. Then, discuss:  
-   - What challenges could happen if **different departments** have **different cultures**? (e.g., some are pathological, some are bureaucratic, some are generative)
+   - **What challenges** could happen if **different departments** have **different cultures**? (e.g., some are pathological, some are bureaucratic, some are generative)
 
 **Background:**  
 You have already learned about Westrum's classification of organizational cultures:  
 - **Pathological** (power-oriented, information hoarding)  
 - **Bureaucratic** (rule-oriented, information protection)  
 - **Generative** (performance-oriented, information flow encouraged)
+
+**Quick Example** 
+
+* Reliability Problem (Pathological Organization): Critical failure reports are hidden to avoid blame, causing repeated outages.
+* Maintainability Problem (Different Cultures): One team follows strict documentation processes (bureaucratic), while another team
+  improvises and delivers faster (generative), leading to misunderstandings during system updates.
 
 **Tips for Your Discussion:**
 - How would a **pathological culture** impact system handovers, bug fixing, downtime handling, or system updates?
