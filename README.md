@@ -1,4 +1,4 @@
-**How Organizational Culture Influences Non-Technical System Attributes**
+# **How Organizational Culture Influences Non-Technical System Attributes**
 
 **Objective:**  
 Discuss how the culture in an organization can affect important non-functional requirements (system qualities) such as:
